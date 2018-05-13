@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "com.unity.ads": "exclude",
+    "com.unity.package-manager-ui": "1.9.8",
+    "com.unity.textmeshpro": "1.2.2",
+    "com.unity.analytics": "exclude",
+    "com.unity.standardevents": "exclude",
+    "com.unity.purchasing": "exclude",
+    "com.unity.progrids": "3.0.2-preview",
+    "com.unity.probuilder": "3.0.8"
+  }
+}
