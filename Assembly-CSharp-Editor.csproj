@@ -94,6 +94,9 @@
     <Reference Include="Unity.ProGrids">
       <HintPath>/home/heider/Neodroid/AGV/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.VectorGraphics">
+      <HintPath>/home/heider/Neodroid/AGV/Library/ScriptAssemblies/Unity.VectorGraphics.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.ProGrids.Editor">
       <HintPath>/home/heider/Neodroid/AGV/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
     </Reference>
@@ -103,14 +106,20 @@
     <Reference Include="Unity.PackageManagerUI.Editor">
       <HintPath>/home/heider/Neodroid/AGV/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>/home/heider/Neodroid/AGV/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
     <Reference Include="com.unity.postprocessing.Editor">
       <HintPath>/home/heider/Neodroid/AGV/Library/ScriptAssemblies/com.unity.postprocessing.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.VectorGraphics.Editor">
+      <HintPath>/home/heider/Neodroid/AGV/Library/ScriptAssemblies/Unity.VectorGraphics.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="com.unity.postprocessing.Runtime">
       <HintPath>/home/heider/Neodroid/AGV/Library/ScriptAssemblies/com.unity.postprocessing.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>/home/heider/Neodroid/AGV/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.vectorgraphics">
+      <HintPath>/home/heider/Neodroid/AGV/Library/ScriptAssemblies/com.unity.vectorgraphics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/opt/Unity-2018.2.0f2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
