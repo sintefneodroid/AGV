@@ -296,25 +296,25 @@
       <HintPath>/home/heider/Neodroid/AGV/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
     </Reference>
     <Reference Include="ProBuilderEditor">
-      <HintPath>/home/heider/.config/unity3d/cache/packages/packages.unity.com/com.unity.probuilder@3.0.8/ProBuilder/Editor/ProBuilderEditor.dll</HintPath>
+      <HintPath>/home/heider/.config/unity3d/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Editor/ProBuilderEditor.dll</HintPath>
     </Reference>
     <Reference Include="AssetIdRemapUtility">
-      <HintPath>/home/heider/.config/unity3d/cache/packages/packages.unity.com/com.unity.probuilder@3.0.8/ProBuilder/AssetIdRemapUtility/Editor/AssetIdRemapUtility.dll</HintPath>
+      <HintPath>/home/heider/.config/unity3d/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/AssetIdRemapUtility/Editor/AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="ProBuilderCore">
-      <HintPath>/home/heider/.config/unity3d/cache/packages/packages.unity.com/com.unity.probuilder@3.0.8/ProBuilder/Classes/ProBuilderCore.dll</HintPath>
+      <HintPath>/home/heider/.config/unity3d/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ProBuilderCore.dll</HintPath>
     </Reference>
     <Reference Include="ProBuilderMeshOps">
-      <HintPath>/home/heider/.config/unity3d/cache/packages/packages.unity.com/com.unity.probuilder@3.0.8/ProBuilder/Classes/ProBuilderMeshOps.dll</HintPath>
+      <HintPath>/home/heider/.config/unity3d/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ProBuilderMeshOps.dll</HintPath>
     </Reference>
     <Reference Include="pb_Stl">
-      <HintPath>/home/heider/.config/unity3d/cache/packages/packages.unity.com/com.unity.probuilder@3.0.8/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
+      <HintPath>/home/heider/.config/unity3d/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
     </Reference>
     <Reference Include="KdTreeLib">
-      <HintPath>/home/heider/.config/unity3d/cache/packages/packages.unity.com/com.unity.probuilder@3.0.8/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
+      <HintPath>/home/heider/.config/unity3d/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
     </Reference>
     <Reference Include="Poly2Tri">
-      <HintPath>/home/heider/.config/unity3d/cache/packages/packages.unity.com/com.unity.probuilder@3.0.8/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
+      <HintPath>/home/heider/.config/unity3d/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
     </Reference>
     <Reference Include="NetMQ">
       <HintPath>/home/heider/Neodroid/AGV/Packages/droid/Neodroid/Libaries/NetMQ.4.0.0.156-pre/lib/net40/NetMQ.dll</HintPath>
