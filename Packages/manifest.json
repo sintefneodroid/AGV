@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "com.unity.package-manager-ui": "1.9.11",
-    "com.unity.postprocessing": "2.0.8-preview",
-    "com.unity.probuilder": "3.0.9",
-    "com.unity.progrids": "3.0.3-preview.0",
-    "com.unity.textmeshpro": "1.2.4",
-    "com.unity.vectorgraphics": "1.0.0-preview.13",
+    "com.unity.package-manager-ui": "0.0.0-builtin",
+    "com.unity.postprocessing": "2.1.2",
+    "com.unity.textmeshpro": "1.3.0",
+    "com.unity.timeline": "0.0.0-builtin",
+    "net.cnheider.neodroid": "https://github.com/sintefneodroid/droid.git",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",
@@ -36,5 +35,11 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "net.cnheider.neodroid": {
+      "hash": "9723af12f14c1d2137a45780deeed97eb296ae39",
+      "revision": "HEAD"
+    }
   }
 }
